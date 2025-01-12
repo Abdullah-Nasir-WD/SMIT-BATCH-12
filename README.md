@@ -6,7 +6,7 @@
 - [x] CSS
 - [x] bootstrap/tailwind
 - [x] JAVASCRIPT
-- [ ] TYPESCRIPT
+- [x] TYPESCRIPT
 - [ ] GITHUB/GIT
 - [ ] FIREBASE
 - [ ] JS HACKATHON
